@@ -1,0 +1,27 @@
+# Map file for tile-based game
+# (Lines that start with '#' are comments)
+# The tiles are:
+#   (Space) Empty tile
+#   A..Z    Tiles A through Z
+#   o       Banana
+#   !       1 Life
+#   *       Goal
+#   1       Cocodrilo (grub)
+#   2       Tucan     (fly) 
+#   3       Serpiente (grub)    
+#   4       Boss      (Kongo)
+#   p       Pineapple 1 (Pineapple)
+   
+
+
+
+                                           2         
+                                      III      II     EF        ooooo ooooo o   o                         oo
+                              IIII                    CD        o       o   oo  o                       oooo
+                                                p     CD        ooo     o   o o o                     oooooo
+                      IIIII                           CD        o       o   o  oo                   oooooooo
+     II                                        p p    CD        o     ooooo o   o                ooooooooooo
+              IIIIII                          p p     CD                                       ooooooooooooo
+                                              p       CD                                      oooooooooooooo
+        EF                                     p4     CD s                                  fooooooooooooooo
+BBBBBBBBGHBBBBBBBBBBBBBBBBBBBBBBBJJJJJJJJJJJJJJJJJJJJBGHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB

@@ -1,0 +1,24 @@
+# Map file for tile-based game
+# (Lines that start with '#' are comments)
+# The tiles are:
+#   (Space) Empty tile
+#   A..Z    Tiles A through Z
+#   o       Star
+#   !       Music Note
+#   *       Goal
+#   1       Bad Guy 1 (grub)
+#   2       Bad Guy 2 (fly)     
+#   3       Bad Guy 3 (grub2)
+                                       IIIIIIIIIIIIIIIIIIIIIIII                                                                         CA
+                                       IIIIIIIIIIIIIIIIIIIIIIII                                                                         CA
+                                       ooooo!oooo            II                                                                         CA
+                                       IIoooooooo            II                                                      o o o              CA
+                                  2   oIIIIIIIIIII    oooooooII       2                 o o o o                      IIIII              CA
+                              EBBBBBIo IIIIIIIIIII   IIIIIIIIII                         IIIIIII           o o o                    oo   CA
+       o o                 IIICAAAAAI oIIIII     Io oI       II         o o o                             IIIII   2               IIII  CA
+      IIIII          o o      CAAAAAIo IIIIIo o o o 2 o o o oII         IIIII          o o                         o o!o o              CA
+                    IIIII  o  CAAAAAI oIIIII o o oIo o o o o II                2       IIII       o o o o          IIIIIII              CA
+            o o        2  o o CAAAAAIo IIIIIo o oIIIo o o o oII                                   IIIIIII                       o o o o CA
+            IIII         o o oCAAAAAI oIIIII o oIIIIIo o o o II  IBBBBF      o o o                o o o o         EBBBBBF               CA
+           1                3 CAAAAAI            1            1  IAAAAD   1          EBF  1            3        1 CAAAAAD   1        *  CA
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIAAAAHBBBBBBBBBBBBBBGAHBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAHBBBBBBBBBBBBBBBGA
